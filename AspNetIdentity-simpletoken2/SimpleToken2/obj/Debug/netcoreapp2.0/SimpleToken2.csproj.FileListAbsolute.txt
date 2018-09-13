@@ -1,0 +1,12 @@
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\bin\Debug\netcoreapp2.0\SimpleToken2.deps.json
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\bin\Debug\netcoreapp2.0\SimpleToken2.runtimeconfig.json
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\bin\Debug\netcoreapp2.0\SimpleToken2.runtimeconfig.dev.json
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\bin\Debug\netcoreapp2.0\SimpleToken2.dll
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\bin\Debug\netcoreapp2.0\SimpleToken2.pdb
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\obj\Debug\netcoreapp2.0\SimpleToken2.csprojResolveAssemblyReference.cache
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\obj\Debug\netcoreapp2.0\SimpleToken2.csproj.CoreCompileInputs.cache
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\obj\Debug\netcoreapp2.0\SimpleToken2.AssemblyInfoInputs.cache
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\obj\Debug\netcoreapp2.0\SimpleToken2.AssemblyInfo.cs
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\obj\Debug\netcoreapp2.0\SimpleToken2.dll
+E:\Code\AspNetIdentity-simpletoken2\SimpleToken2\obj\Debug\netcoreapp2.0\SimpleToken2.pdb
